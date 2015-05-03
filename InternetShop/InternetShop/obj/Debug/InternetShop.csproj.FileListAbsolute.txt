@@ -1,0 +1,7 @@
+E:\IGOR_C#\EPAM\InternetShop\InternetShop\bin\Debug\InternetShop.exe.config
+E:\IGOR_C#\EPAM_Task\InternetShop\InternetShop\bin\Debug\InternetShop.exe.config
+E:\IGOR_C#\EPAM_Task\InternetShop\InternetShop\bin\Debug\InternetShop.exe
+E:\IGOR_C#\EPAM_Task\InternetShop\InternetShop\bin\Debug\InternetShop.pdb
+E:\IGOR_C#\EPAM_Task\InternetShop\InternetShop\obj\Debug\InternetShop.csprojResolveAssemblyReference.cache
+E:\IGOR_C#\EPAM_Task\InternetShop\InternetShop\obj\Debug\InternetShop.exe
+E:\IGOR_C#\EPAM_Task\InternetShop\InternetShop\obj\Debug\InternetShop.pdb
