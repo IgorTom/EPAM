@@ -1,0 +1,6 @@
+E:\IGOR_C#\EPAM\Task02\Task02\bin\Debug\Task02.exe.config
+E:\IGOR_C#\EPAM\Task02\Task02\bin\Debug\Task02.exe
+E:\IGOR_C#\EPAM\Task02\Task02\bin\Debug\Task02.pdb
+E:\IGOR_C#\EPAM\Task02\Task02\obj\Debug\Task02.csprojResolveAssemblyReference.cache
+E:\IGOR_C#\EPAM\Task02\Task02\obj\Debug\Task02.exe
+E:\IGOR_C#\EPAM\Task02\Task02\obj\Debug\Task02.pdb
