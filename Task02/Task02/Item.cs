@@ -4,12 +4,12 @@ namespace Task02
 {
     class Item
     {
-        private string produktName; //наименование тоовара
-        private int unitPrice; // цена за еденицу товара
-        private int quantity; // колличество товара
-        private int priceAllGoods; // цена всего=цена за еденицу тов.*кол-во
+        private string produktName; //наименование товара
+        private decimal unitPrice; // цена за еденицу товара
+        private uint quantity; // колличество товара
+        private decimal priceAllGoods; // цена всего=цена за еденицу тов.*кол-во
 
-        public int PriceAllGoods 
+        public decimal PriceAllGoods 
         {
             get { return priceAllGoods; }
         } 
@@ -20,13 +20,13 @@ namespace Task02
             set { produktName = value; }
         }
 
-        public int UnitPrice //свойство
+        public decimal UnitPrice //свойство
         {
             get {return unitPrice; }
             set {if (unitPrice >= 0) {unitPrice = value;} else{unitPrice = 0;}} 
         }
 
-        public int Quantity //свойство
+        public uint Quantity //свойство
         {
             get { return quantity; }
             set { if (quantity >= 0) { quantity = value; } else { quantity = 0; } }
@@ -40,7 +40,7 @@ namespace Task02
             priceAllGoods = 0;
         }
 
-        public Item(string produktName, int unitPrice, int quantity) //конструктор с параметрами
+        public Item(string produktName, decimal unitPrice, uint quantity) //конструктор с параметрами
         {
             ProduktName = produktName;
             UnitPrice = unitPrice;
@@ -49,7 +49,7 @@ namespace Task02
         }
 
         // МЕТОД (выполняется расчет цены всего товара; цена=цена за еденицу тов.*кол-во)
-        public int PriceOfAllGoods()
+        public decimal PriceOfAllGoods()
         { 
             return UnitPrice * Quantity;
         } 

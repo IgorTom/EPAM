@@ -11,3 +11,9 @@ E:\IGOR_C#\EPAM\Task01\Task01\obj\Debug\Task01.pdb
 E:\IGOR_C#\EPAM\Task01\Task01\obj\Debug\Task01.csprojResolveAssemblyReference.cache
 E:\IGOR_C#\EPAM\Task01\Task01\bin\Debug\Task01.exe
 E:\IGOR_C#\EPAM\Task01\Task01\bin\Debug\Task01.pdb
+E:\IGOR_C#\EPAM_Task\Task01\Task01\bin\Debug\Task01.exe.config
+E:\IGOR_C#\EPAM_Task\Task01\Task01\obj\Debug\Task01.exe
+E:\IGOR_C#\EPAM_Task\Task01\Task01\obj\Debug\Task01.pdb
+E:\IGOR_C#\EPAM_Task\Task01\Task01\obj\Debug\Task01.csprojResolveAssemblyReference.cache
+E:\IGOR_C#\EPAM_Task\Task01\Task01\bin\Debug\Task01.exe
+E:\IGOR_C#\EPAM_Task\Task01\Task01\bin\Debug\Task01.pdb
