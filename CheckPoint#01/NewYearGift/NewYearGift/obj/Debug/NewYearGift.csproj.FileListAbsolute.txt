@@ -1,0 +1,6 @@
+C:\_IGOR_C#\EPAM_Task\CheckPoint#01\NewYearGift\NewYearGift\bin\Debug\NewYearGift.exe.config
+C:\_IGOR_C#\EPAM_Task\CheckPoint#01\NewYearGift\NewYearGift\obj\Debug\NewYearGift.csprojResolveAssemblyReference.cache
+C:\_IGOR_C#\EPAM_Task\CheckPoint#01\NewYearGift\NewYearGift\bin\Debug\NewYearGift.exe
+C:\_IGOR_C#\EPAM_Task\CheckPoint#01\NewYearGift\NewYearGift\bin\Debug\NewYearGift.pdb
+C:\_IGOR_C#\EPAM_Task\CheckPoint#01\NewYearGift\NewYearGift\obj\Debug\NewYearGift.exe
+C:\_IGOR_C#\EPAM_Task\CheckPoint#01\NewYearGift\NewYearGift\obj\Debug\NewYearGift.pdb
